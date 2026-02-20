@@ -1,4 +1,4 @@
-![Definition](https://github.com/naujan/memento-mori/res/mementomori-dict.png)
+![Definition](https://github.com/naujan/memento-mori/blob/master/res/mementomori-dict.png)
 
 # *memento mori*
 
