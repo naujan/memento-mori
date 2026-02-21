@@ -37,7 +37,14 @@ The outputted mode can also be altered using the `-m <mode>` argument.
 
 ## Installation
 
+#### From the AUR:
+
+```bash
+yay -S mementomori
+```
+
 #### Manual download:
+
 ```bash
 git clone https://github.com/naujan/mementomori.git
 cd mementomori
@@ -51,4 +58,5 @@ sudo ./install.sh
 - **Better and better calculations** - Estimations closer to statistics
 
 ## License
+
 [MIT License](https://choosealicense.com/licenses/mit/)
