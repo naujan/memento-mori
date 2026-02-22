@@ -8,9 +8,6 @@ fi
 
 SCRIPT_NAME="mementomori"
 SCRIPT_PATH="/usr/bin/$SCRIPT_NAME"
-USER_HOME=$(eval echo ~${SUDO_USER})
-
-echo "$USER_HOME"
 
 echo "Copying script to $SCRIPT_PATH"
 cp mementomori.py "$SCRIPT_PATH"
